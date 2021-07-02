@@ -1,4 +1,4 @@
-#include"list.h"
+#include "../lib/list.h"
 
 /* ---------------------- ALLOCATE --------------------- */
 /* Function: allocate memory to new item				 */
@@ -154,8 +154,6 @@ void clean(void) {
 void delete(int n) {
 
 	LIST *temp, *aux;
-	
-	int i;
 
 	// List is empty, prompt error message
 	if(head == NULL)
