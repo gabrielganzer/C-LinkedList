@@ -1,0 +1,12 @@
+Type  Filename             Size       Timestamp
+Dir                     . 352        Wed Jun 30 12:03:26 2021
+Dir                    .. 768        Wed Jun 30 12:03:26 2021
+File            .DS_Store 6148       Mon Jun 28 15:43:55 2021
+File              LICENSE 1324       Mon Jun 28 12:32:57 2021
+File            README.md 18         Mon Jun 28 12:32:57 2021
+File                 exec 13200      Wed Jun 30 12:03:27 2021
+Dir                   lib 96         Mon Jun 28 18:10:19 2021
+Dir                  .git 448        Wed Jun 30 12:03:13 2021
+Dir               .vscode 64         Wed Jun 30 10:17:39 2021
+File         filelist.txt 0          Wed Jun 30 12:03:30 2021
+Dir                   src 192        Wed Jun 30 12:03:26 2021
