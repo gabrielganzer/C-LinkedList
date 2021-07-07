@@ -38,7 +38,6 @@ void put(int n) {
         p->id = count++;
         p->data = n;
         p->next = NULL;
-        tail->next = p;
         tail = p;
     }
 }
